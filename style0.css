@@ -1,0 +1,35 @@
+body {
+      border:2px solid red;
+      /*height:650px;*/
+      margin:0 auto;
+      width:960px;
+      min-width:960px;
+     }
+header {
+        height:18%;
+        margin-bottom:1%;
+        border:2px solid blue;
+       }
+footer {
+        height:8%;
+        clear:both;
+        border:2px solid blue;
+       }
+#side {width:235px;
+       /*border:1px solid blue;*/
+       height:70%;
+       float:left;
+       margin-bottom:1%}
+#main {width:483px;
+       border:1px solid blue;
+       height:70%;
+       float:left;
+       margin-bottom:1%;}
+
+header {
+        font-size:.6em
+       }
+footer {
+        font-size: /*.4em*/.2em
+       }
+
