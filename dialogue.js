@@ -1,3 +1,3 @@
 function dialogue() {
-  document.getElementById('a').style.color="red";
+  document.getElementById('a').style.color="amber";
 }
